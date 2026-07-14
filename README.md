@@ -6,7 +6,7 @@ Why does breaking a norm sometimes make someone *more* respected, and sometimes 
 
 ---
 
-## The idea in one line
+## The idea
 
 Credibility isn't a property of a signal. It's a judgment an audience makes by checking a new act against everything it already knows about the actor — and that judgment can be withdrawn.
 
