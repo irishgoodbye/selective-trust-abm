@@ -10,7 +10,7 @@ Why does breaking a norm sometimes make someone *more* respected, and sometimes 
 
 Credibility isn't a property of a signal. It's a judgment an audience makes by checking a new act against everything it already knows about the actor — and that judgment can be withdrawn.
 
-## What's actually in here
+## What's in here
 
 A 500-agent NetLogo simulation where:
 
@@ -38,4 +38,12 @@ Full results, statistics, and the two-bug debugging story are in the paper.
 
 To reproduce the paper's results, load the BehaviorSpace experiments in /experiments and run at the parameter values listed in the paper's Appendix.
 
-## Repository structure
+## Citation
+
+If you use this model, please cite:
+
+Left, S. (2026). Permission to Deviate: How Audiences Grant and Withdraw Prestige Through Selective Trust.
+
+## Built on
+
+Axelrod's (1997) culture model, Henrich & Gil-White's (2001) prestige-bias framework, Feltovich, Harbaugh & To's (2002) countersignaling equilibrium, and Ridgeway's (2014) expectation states theory — full references in the paper.
