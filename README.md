@@ -30,7 +30,7 @@ Full results, statistics, and the two-bug debugging story are in the paper.
 
 ## Quick start
 
-1. Open `selective-trust-model.nlogo` in NetLogo 6.4+.
+1. Open `selective-trust-model.nlogo` in NetLogo 6.4.
 2. Click Setup, then Go.
 3. Type `diagnose` into the Command Center at any tick for a full snapshot of calibration targets.
 4. See the Info tab for parameter definitions, defaults, and things to try.
